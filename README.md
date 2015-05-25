@@ -1,0 +1,2 @@
+# TextFocusAssist
+テキストボックスのフォーカス移動をショートカットで行える Chrome Extension
